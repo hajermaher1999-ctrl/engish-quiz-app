@@ -1,16 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>English Practice Quiz</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>English Practice Quiz</h1>
-  <div id="quiz"></div>
-  <button onclick="nextQuestion()">Next</button>
-  <p id="result"></p>
-  <script src="app.js"></script>
+  <div id="app">
+    <h1>English Practice Quiz</h1>
+    
+    <!-- Category Selection -->
+    <div id="category-select">
+      <label>Select Category:</label>
+      <select id="category">
+        <option value="grammar">Grammar</option>
+        <option value="vocabulary">Vocabulary</option>
+        <option value="reading">Reading</option>
+        <option value="mixed">Mixed Mode</option>
+      </select>
+      <button id="start-btn">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Area -->
+    <div id="quiz-area" class="hidden">
+      <div id="progress"></div>
+      <div id="question"></div>
+      <div id="options"></div>
+      <div id="feedback"></div>
+      <button id="next-btn">Next</button>
+    </div>
+
+    <!-- Review Mode -->
+    <div id="review-area" class="hidden">
+      <h2>Review Your Answers</h2>
+      <div id="review-list"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>

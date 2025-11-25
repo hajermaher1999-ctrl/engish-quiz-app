@@ -1,4 +1,42 @@
-body { font-family: Arial, sans-serif; margin: 20px; }
-.question { font-weight: bold; margin-bottom: 10px; }
-.options { margin-bottom: 20px; }
-button { padding: 10px 15px; }
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f9;
+  text-align: center;
+}
+#app {
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.hidden {
+  display: none;
+}
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #0078d7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background: #005a9e;
+}
+#progress {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+#feedback {
+  margin-top: 10px;
+  font-size: 1.1em;
+}
+.correct {
+  color: green;
+}
+.wrong {
+  color: red;
+}
