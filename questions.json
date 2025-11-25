@@ -1,0 +1,297 @@
+[
+  {
+    "question": "Thank you for the flowers. I put them ___ the table.",
+    "options": ["in", "over", "on"],
+    "answer": "on"
+  },
+  {
+    "question": "Who did you ___?",
+    "options": ["saw", "seen", "see"],
+    "answer": "see"
+  },
+  {
+    "question": "Aramco sent a team to undertake an ___ for oil.",
+    "options": ["art", "archaeology", "exploration"],
+    "answer": "exploration"
+  },
+  {
+    "question": "I often play ___ very fast to get here. It was a dangerous ride.",
+    "options": ["food", "jogging", "video games"],
+    "answer": "video games"
+  },
+  {
+    "question": "We ___ very fast to get here. It was a dangerous ride.",
+    "options": ["drived", "drive", "drove"],
+    "answer": "drove"
+  },
+  {
+    "question": "Mr. Ali ___ to the party last month.",
+    "options": ["come", "comed", "came"],
+    "answer": "came"
+  },
+  {
+    "question": "I use a ___ and a fork to eat a steak.",
+    "options": ["formula", "leader", "knife"],
+    "answer": "knife"
+  },
+  {
+    "question": "You are not allowed to make any ___ in a public library.",
+    "options": ["monitor", "button", "noise"],
+    "answer": "noise"
+  },
+  {
+    "question": "A ___ is a place where you cook.",
+    "options": ["bedroom", "dining room", "kitchen"],
+    "answer": "kitchen"
+  },
+  {
+    "question": "There was no water to ___ the baby.",
+    "options": ["freeze", "oven", "bath"],
+    "answer": "bath"
+  },
+  {
+    "question": "___ pasta requires many spicy ingredients.",
+    "options": ["Running", "Watching", "Cooking"],
+    "answer": "Cooking"
+  },
+  {
+    "question": "The students ___ their homework last week.",
+    "options": ["do", "done", "did"],
+    "answer": "did"
+  },
+  {
+    "question": "My favourite shop is ___ the supermarket and the cinema.",
+    "options": ["next", "under", "between"],
+    "answer": "between"
+  },
+  {
+    "question": "This ___ fell from a mountain and broke his leg.",
+    "options": ["body", "document", "climber"],
+    "answer": "climber"
+  },
+  {
+    "question": "I like to ___ tennis in my free time.",
+    "options": ["drive", "read", "play"],
+    "answer": "play"
+  },
+  {
+    "question": "I often take a ___ after coming home from the gym.",
+    "options": ["chair", "bed", "shower"],
+    "answer": "shower"
+  },
+  {
+    "question": "He ___ the food yesterday.",
+    "options": ["buy", "buyed", "bought"],
+    "answer": "bought"
+  },
+  {
+    "question": "___ is easy when you have a good teacher.",
+    "options": ["Climber", "Successful", "Learning"],
+    "answer": "Learning"
+  },
+  {
+    "question": "We are going on a trip ___",
+    "options": ["yesterday", "last year", "next week"],
+    "answer": "next week"
+  },
+  {
+    "question": "The teacher wrote the answers on the white ___.",
+    "options": ["textbook", "table", "board"],
+    "answer": "board"
+  },
+  {
+    "question": "Sara ___ her book.",
+    "options": ["find", "finded", "found"],
+    "answer": "found"
+  },
+  {
+    "question": "The teacher ___ a note on the board last week.",
+    "options": ["writed", "written", "wrote"],
+    "answer": "wrote"
+  },
+  {
+    "question": "Magellan was a famous ___. He discovered many countries around the world in the sixteenth century.",
+    "options": ["factory worker", "police officer", "explorer"],
+    "answer": "explorer"
+  },
+  {
+    "question": "Ronaldo is a very ___ footballer.",
+    "options": ["pilot", "rocket", "successful"],
+    "answer": "successful"
+  },
+  {
+    "question": "We always sit on the sofa and watch TV in the ___.",
+    "options": ["kitchen", "bedroom", "living room"],
+    "answer": "living room"
+  },
+  {
+    "question": "We enjoyed every song at the ___ last night.",
+    "options": ["school", "shopping", "concert"],
+    "answer": "concert"
+  },
+  {
+    "question": "What ___ they do last summer?",
+    "options": ["do", "done", "did"],
+    "answer": "did"
+  },
+  {
+    "question": "The students ___ their homework last week.",
+    "options": ["do", "done", "did"],
+    "answer": "did"
+  },
+  {
+    "question": "The book was lying ___.",
+    "options": ["at the table", "away the table", "on the table"],
+    "answer": "on the table"
+  },
+  {
+    "question": "What are you ___ next Friday night, Khaled?",
+    "options": ["do", "did", "doing"],
+    "answer": "doing"
+  },
+  {
+    "question": "This is Bill and ___ sister Sarah.",
+    "options": ["her", "their", "his"],
+    "answer": "his"
+  },
+  {
+    "question": "Excuse me, is ___ the City Museum over there?",
+    "options": ["this", "those", "that"],
+    "answer": "that"
+  },
+  {
+    "question": "Excuse me, when is the film? It starts ___ 8:00 PM.",
+    "options": ["in", "on", "at"],
+    "answer": "at"
+  },
+  {
+    "question": "Excuse me, ___ is the bus station? It's over there near the supermarket.",
+    "options": ["what", "when", "where"],
+    "answer": "where"
+  },
+  {
+    "question": "Hello. I ___ Robert from Germany.",
+    "options": ["are", "you", "m"],
+    "answer": "m"
+  },
+  {
+    "question": "Oh, ___ are from Germany!",
+    "options": ["I", "you're", "you"],
+    "answer": "you"
+  },
+  {
+    "question": "Hello, ___ I'm Naif.",
+    "options": ["I", "am", "I'm"],
+    "answer": "I'm"
+  },
+  {
+    "question": "My friend Ahmed is sick. He ___ to class tomorrow.",
+    "options": ["doesn't coming", "is going to not come", "isn't coming"],
+    "answer": "isn't coming"
+  },
+  {
+    "question": "They ___ hungry when I met them.",
+    "options": ["she", "he", "they"],
+    "answer": "They"
+  },
+  {
+    "question": "They are meeting ___ the evening.",
+    "options": ["at", "on", "in"],
+    "answer": "in"
+  },
+  {
+    "question": "They ___ watching TV now, they are sleeping.",
+    "options": ["are", "isn't", "aren't"],
+    "answer": "aren't"
+  },
+  {
+    "question": "They are ___ in Saudi Arabia.",
+    "options": ["liveing", "live", "living"],
+    "answer": "living"
+  },
+  {
+    "question": "Amal ___ busy last night.",
+    "options": ["weren't", "were", "was"],
+    "answer": "was"
+  },
+  {
+    "question": "My class is ___ Monday.",
+    "options": ["in", "at", "on"],
+    "answer": "on"
+  },
+  {
+    "question": "We had lunch in the new restaurant ___",
+    "options": ["Tomorrow", "Next week", "Yesterday"],
+    "answer": "Yesterday"
+  },
+  {
+    "question": "I am getting ___ football now, I am really interested in football.",
+    "options": ["behind", "together", "into"],
+    "answer": "into"
+  },
+  {
+    "question": "Let's go have lunch in the new ___.",
+    "options": ["pharmacy", "petstore", "restaurant"],
+    "answer": "restaurant"
+  },
+  {
+    "question": "She ___ English yesterday.",
+    "options": ["studies", "studyed", "studied"],
+    "answer": "studied"
+  },
+  {
+    "question": "She ___ a movie now.",
+    "options": ["watching", "watched", "is watching"],
+    "answer": "is watching"
+  },
+  {
+    "question": "We are cooking dinner in the ___.",
+    "options": ["bedroom", "laundry room", "kitchen"],
+    "answer": "kitchen"
+  },
+  {
+    "question": "My son went to Italy ___ year.",
+    "options": ["on", "last", "next"],
+    "answer": "last"
+  },
+  {
+    "question": "I went to the cinema ___ 8 o'clock.",
+    "options": ["on", "in", "at"],
+    "answer": "at"
+  },
+  {
+    "question": "Huda ___ at home yesterday.",
+    "options": ["weren't", "didn't", "wasn't"],
+    "answer": "wasn't"
+  },
+  {
+    "question": "People ___ when they are 60 years old.",
+    "options": ["are born", "have a baby", "retire"],
+    "answer": "retire"
+  },
+  {
+    "question": "How about we go shopping? I am busy, ___",
+    "options": ["sure", "I'd love to", "I'm sorry"],
+    "answer": "I'm sorry"
+  },
+  {
+    "question": "Last week, they ___ the vase.",
+    "options": ["break", "breaked", "broke"],
+    "answer": "broke"
+  },
+  {
+    "question": "The children are sleeping in the ___.",
+    "options": ["attic", "basement", "bedroom"],
+    "answer": "bedroom"
+  },
+  {
+    "question": "The sofa is ___ the door and the window.",
+    "options": ["under", "above", "between"],
+    "answer": "between"
+  },
+  {
+    "question": "Sunday is the name of a ___.",
+    "options": ["month", "day"],
+    "answer": "day"
+  }
+]
